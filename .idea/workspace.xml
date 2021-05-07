@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd409c4e-49fb-4706-ae84-aeeb1dac5a04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/l04/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l04/tags.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +22,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="app" />
   <component name="ProjectId" id="1rtnBWqMure9Z5XlbzMWdMXdoqc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -32,9 +35,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="credentialsType com.jetbrains.php.remote.interpreter.ui.PhpCreateRemoteSdkForm" value="Docker Compose" />
+    <property name="credentialsType com.jetbrains.php.remote.interpreter.ui.PhpInplaceEditRemoteSdkForm" value="Docker Compose" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,7 +54,9 @@
       <workItem from="1620230018016" duration="723000" />
       <workItem from="1620230947014" duration="11021000" />
       <workItem from="1620242866266" duration="2345000" />
-      <workItem from="1620246437934" duration="1037000" />
+      <workItem from="1620246437934" duration="1338000" />
+      <workItem from="1620403194527" duration="7602000" />
+      <workItem from="1620412654288" duration="1030000" />
     </task>
     <task id="LOCAL-00001" summary="v3 comment in line __">
       <created>1620233034051</created>
@@ -86,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620246487619</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="05.05.2021 23 27">
+      <created>1620248356408</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620248356408</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
