@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd409c4e-49fb-4706-ae84-aeeb1dac5a04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/l04/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/l04/tags.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H08/Home_8.php" beforeDir="false" afterPath="$PROJECT_DIR$/H08/Home_8.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,6 +61,10 @@
       <workItem from="1620246437934" duration="1338000" />
       <workItem from="1620403194527" duration="7602000" />
       <workItem from="1620412654288" duration="1030000" />
+      <workItem from="1620972721050" duration="905000" />
+      <workItem from="1621006577465" duration="2359000" />
+      <workItem from="1621441137349" duration="2606000" />
+      <workItem from="1622041417154" duration="1728000" />
     </task>
     <task id="LOCAL-00001" summary="v3 comment in line __">
       <created>1620233034051</created>
@@ -100,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620248356408</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="multidimensional array #1">
+      <created>1622042899062</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622042899062</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +138,8 @@
     <MESSAGE value="v2 comment in line __4" />
     <MESSAGE value="05.05.2021" />
     <MESSAGE value="05.05.2021 23 27" />
-    <option name="LAST_COMMIT_MESSAGE" value="05.05.2021 23 27" />
+    <MESSAGE value="multidimensional array #1" />
+    <option name="LAST_COMMIT_MESSAGE" value="multidimensional array #1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

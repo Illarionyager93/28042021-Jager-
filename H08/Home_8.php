@@ -21,7 +21,7 @@ $MySite2 = [
 /*
  * Your PHP - code here
  */
-print_r($MySite2);
+var_dump($MySite2);
 //foreach ($MySite2 as $key => $value) {
 //    Echo "{$key}: {$value}<br>";
 //}
