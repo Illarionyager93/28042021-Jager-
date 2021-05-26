@@ -22,14 +22,13 @@ $MySite2 = [
  * Your PHP - code here
  */
 var_dump($MySite2);
-//foreach ($MySite2 as $key => $value) {
-//    Echo "{$key}: {$value}<br>";
-//}
-foreach ($MySite2 as $key => $value) {
-    Echo "{$key}: {$value}<br>";
-
+foreach ($MySite2 as $lvl2) {
+    echo $lvl2['title'];
+    foreach ($MySite2[$lvl2['title']] as $lvl3){
+        echo $lvl2['title'];
+    }
+//    echo $lvl2['title'], $lvl2['link'],'<br>';
 }
-
 
 
 
