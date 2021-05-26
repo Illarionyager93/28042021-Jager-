@@ -64,7 +64,7 @@
       <workItem from="1620972721050" duration="905000" />
       <workItem from="1621006577465" duration="2359000" />
       <workItem from="1621441137349" duration="2606000" />
-      <workItem from="1622041417154" duration="1728000" />
+      <workItem from="1622041417154" duration="2506000" />
     </task>
     <task id="LOCAL-00001" summary="v3 comment in line __">
       <created>1620233034051</created>
@@ -115,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622042899062</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="multidimensional array #2">
+      <created>1622043460113</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622043460113</updated>
+    </task>
+    <task id="LOCAL-00009" summary="multidimensional array #3">
+      <created>1622044541810</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622044541810</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +153,9 @@
     <MESSAGE value="05.05.2021" />
     <MESSAGE value="05.05.2021 23 27" />
     <MESSAGE value="multidimensional array #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="multidimensional array #1" />
+    <MESSAGE value="multidimensional array #2" />
+    <MESSAGE value="multidimensional array #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="multidimensional array #3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

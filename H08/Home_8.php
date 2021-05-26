@@ -25,7 +25,7 @@ var_dump($MySite2);
 foreach ($MySite2 as $lvl2) {
     echo $lvl2['title'];
     foreach ($MySite2[$lvl2['title']] as $lvl3){
-        echo $lvl2['title'];
+        echo $lvl3['title'];
     }
 //    echo $lvl2['title'], $lvl2['link'],'<br>';
 }
