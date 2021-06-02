@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd409c4e-49fb-4706-ae84-aeeb1dac5a04" name="Default Changelist" comment="Vaska from Rus">
-      <change afterPath="$PROJECT_DIR$/H09-function/HM9-13.php" afterDir="false" />
+    <list default="true" id="bd409c4e-49fb-4706-ae84-aeeb1dac5a04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/H08/home_8.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H08/Home_8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,10 @@
       <workItem from="1621006577465" duration="2359000" />
       <workItem from="1621441137349" duration="2606000" />
       <workItem from="1622041417154" duration="3067000" />
-      <workItem from="1622207904909" duration="3388000" />
+      <workItem from="1622207904909" duration="4008000" />
+      <workItem from="1622634595647" duration="281000" />
+      <workItem from="1622634959850" duration="787000" />
+      <workItem from="1622636503393" duration="1652000" />
     </task>
     <task id="LOCAL-00001" summary="v3 comment in line __">
       <created>1620233034051</created>
@@ -161,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622216163507</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="fruit count">
+      <created>1622217562207</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1622217562207</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,7 +204,8 @@
     <MESSAGE value="final edition - 2 lvl array only" />
     <MESSAGE value="Vaska from Rus" />
     <MESSAGE value="Vaska from Rus Reversed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vaska from Rus Reversed" />
+    <MESSAGE value="fruit count" />
+    <option name="LAST_COMMIT_MESSAGE" value="fruit count" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
